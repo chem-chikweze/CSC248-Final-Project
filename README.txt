@@ -22,6 +22,9 @@ implementation, which I admit is confusing.
 
 nlp_utils contains utility functions that are mainly used in the model files (bert.py, train_bert.py, and vader.py)
 
+finbert folder: all code within this folder is part of the FinBERT library and was not written by me. I included it here in case you want to run the project, 
+as it cannot be downloaded using pip or condas at this time.
+
 To run the code, the following libraries must be installed:
 channels:
   - pytorch
