@@ -9,7 +9,7 @@ headlines.csv contains the data from web scraping, as described in the paper
 
 Other .csv files are intermediatly saved as each model trains to provide memoziation optionality and speed up debugging
 
-Main:
+Project Structure:
 
 main.py contains the high level overview of the entire project, except the roc auc plots, which were generated independently using roc_auc.py
 
