@@ -43,6 +43,6 @@ dependencies:
     - scikit-learn==0.21.2
     - spacy==2.1.4
     - torch==1.1.0
-	- vaderSentiment
+    - vaderSentiment
 	
 At that point, try running main to train your first model on a very cool dataset! 
